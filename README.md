@@ -38,9 +38,6 @@ if res==-1:
     print("Element not found")
 else:
     print("Element found at index: ",res)
-
-
-
 ```
 ii)	# Find the element in a list using Binary Search(Iterative Method).
 ```
@@ -63,13 +60,6 @@ if res==-1:
     print("Element not found")
 else:
     print("Element found at index: ",res)
-
-
-
-
-
-
-
 ```
 iii)	# Find the element in a list using Binary Search (recursive Method).
 ```
@@ -92,27 +82,21 @@ if res==-1:
     print("Element not found")
 else:
     print("Element found at index: ",res)
-
-
-
-
-
 ```
 ## Sample Input and Output
 i)	#Use a linear search method to match the item in a list.
-![Screenshot 2024-04-05 150841](https://github.com/23002248/Search-Algorithms/assets/151701774/6a868fdb-9b29-44d5-94b4-5d45b84dea82)
+![Screenshot 2024-04-06 211947](https://github.com/SanjaiOfficial/Search-Algorithms/assets/151763180/19d9e86e-0399-4a69-9423-ef7d44bb56dc)
+![Screenshot 2024-04-06 212014](https://github.com/SanjaiOfficial/Search-Algorithms/assets/151763180/6a263104-f85a-45e5-9347-33762d1ae645)
+
 
 ii)	# Find the element in a list using Binary Search(Iterative Method).
-![Screenshot 2024-04-05 150916](https://github.com/23002248/Search-Algorithms/assets/151701774/d54502b5-b429-493d-ab05-64e10832d7d5)
+![Screenshot 2024-04-06 212204](https://github.com/SanjaiOfficial/Search-Algorithms/assets/151763180/ed6e04a1-5126-4c22-9109-d3f6fddf148c)
+![Screenshot 2024-04-06 212214](https://github.com/SanjaiOfficial/Search-Algorithms/assets/151763180/7cdda645-26bd-4827-a868-fec5f0883529)
+
+
 
 iii)	# Find the element in a list using Binary Search (recursive Method).
-![Screenshot 2024-04-05 150916](https://github.com/23002248/Search-Algorithms/assets/151701774/d893d20f-6dde-4f40-8bb8-2a9f07d504cf)
-
-
-
-
-
-
-
+![Screenshot 2024-04-06 212351](https://github.com/SanjaiOfficial/Search-Algorithms/assets/151763180/bb71178e-a5f6-43ae-9df8-3e30776147d6)
+![Screenshot 2024-04-06 212403](https://github.com/SanjaiOfficial/Search-Algorithms/assets/151763180/1137ad0e-ca15-4c98-b3bb-1e8b9f88eb78)
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
